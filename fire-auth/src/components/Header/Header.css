@@ -1,0 +1,19 @@
+.main-header{
+    display: flex;
+    margin-bottom: 50px;
+}
+.logo-size img{
+    width: 150px;
+    margin-right: 1100px;
+    margin-left: 70px;
+}
+.icon-issue img{
+  margin-right: 50px;
+}
+.btn-des{
+  background-image: linear-gradient(90deg deeppink, pink);
+  padding: 5px;
+  border-radius: 20px;
+  width: 120px;
+  
+}
